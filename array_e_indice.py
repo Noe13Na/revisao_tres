@@ -1,7 +1,9 @@
 def imprimir_nomes():
     nomes = ["João", "Maria", "Fulano", "Ciclano"]
-    for i, nome in enumerate(nomes, start=1):
-        print(f"{i}-{nome}")
-
-# Chamando a função para imprimir os nomes
+    
+    print ("1 ", nomes[0])
+    print ("2 ", nomes[1])
+    print ("3 ", nomes[2])
+    print ("4 ", nomes[3])
+        
 imprimir_nomes()
