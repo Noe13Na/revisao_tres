@@ -10,6 +10,7 @@ def imprimir_nomes():
         
 imprimir_nomes()
 
+#questão 2
 def imprimir_primeiro_e_ultimo_nome():
     nomes = ["João", "Maria", "Fulano", "Beltrano"]
     print(f"1-{nomes[0]}")
